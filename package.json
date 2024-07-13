@@ -1,15 +1,15 @@
 {
-  "name": "pf-backendi",
+  "name": "pe1-backend",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "eCommerceControler.js",
   "scripts": {
-    "start": "node --watch desafios/manejoDeArchivos.js"
+    "start": "node --watch eCommerceControler.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "nodemailer": "^6.9.14"
+    "express": "^4.19.2"
   }
 }
